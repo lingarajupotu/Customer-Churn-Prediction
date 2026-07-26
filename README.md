@@ -12,6 +12,15 @@ The API provides a `/predict` endpoint for real-time customer churn prediction.
 > Note: The Render free instance may take some time to wake up after inactivity.
 
 ---
+## 📷 API Documentation
+
+![Swagger API](screenshots/swagger.png)
+
+---
+
+## 📷 Prediction Example
+
+![Prediction Response](screenshots/prediction.png)
 
 ## 📌 Problem Statement
 
